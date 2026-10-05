@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Appointment_Booking_Test",
+    "dynamic_variables": {},
+    "metrics": [
+      "The agent should greet the caller, understand the appointment request, confirm the requested date and time, ask for any required missing details one question at a time, and avoid inventing information."
+    ],
+    "user_prompt": "Hi, I'd like to book an appointment for tomorrow at 3 PM. My name is John.",
+    "creation_timestamp": 1791120377543,
+    "user_modified_timestamp": 1791120377543,
+    "type": "simulation",
+    "tool_mocks": [],
+    "llm_model": "gpt-4.1-mini"
+  }
+]
